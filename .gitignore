@@ -1,0 +1,25 @@
+# Persönliche Daten und Geheimnisse – niemals einchecken
+config.json
+profil.json
+Bewerbungen/
+Vorlagen/
+
+# Laufzeitdaten der App (im Entwicklungsmodus neben dem Programm)
+lo_profile/
+instance.json
+*.log
+
+# Python / Tests
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Build-Ausgaben des Installers
+build/
+dist/
+installer/stage/
+installer/cache/
+
+# Lokale Werkzeug-Konfiguration
+.claude/

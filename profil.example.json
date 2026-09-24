@@ -1,0 +1,10 @@
+{
+  "vorname": "Max",
+  "nachname": "Mustermann",
+  "email": "max@example.com",
+  "telefon": "+49 123 456789",
+  "strasse": "Musterstraße",
+  "hausnummer": "1",
+  "plz": "12345",
+  "ort": "Musterstadt"
+}

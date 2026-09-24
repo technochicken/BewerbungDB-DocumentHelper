@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="de">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>BewerbungDB</title>
+  <link rel="stylesheet" href="/app.css">
+</head>
+<body>
+  <aside class="sidebar">
+    <div class="brand"><span class="logo">B</span> BewerbungDB</div>
+    <nav id="nav">
+      <button data-view="new" class="active">＋ Neue Bewerbung</button>
+      <button data-view="library">▤ Bewerbungen</button>
+      <button data-view="profile">☺ Mein Profil</button>
+      <button data-view="settings">⚙ Einstellungen</button>
+    </nav>
+    <div class="version" id="version"></div>
+  </aside>
+  <main>
+    <div id="banner" class="banner" hidden></div>
+    <div id="view"></div>
+  </main>
+  <div id="toast" class="toast" hidden></div>
+  <script src="/app.js"></script>
+</body>
+</html>

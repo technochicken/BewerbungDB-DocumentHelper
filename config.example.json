@@ -1,0 +1,7 @@
+{
+  "api_base_url": "https://bwdb-01.dach-it-01.de",
+  "api_key": "",
+  "libreoffice_path": "C:/Program Files/LibreOffice/program/soffice.exe",
+  "vorlagen_pfad": "~/Documents/BewerbungDB/Vorlagen",
+  "arbeitsordner": "~/Documents/BewerbungDB/Bewerbungen"
+}

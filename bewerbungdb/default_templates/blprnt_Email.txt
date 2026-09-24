@@ -1,0 +1,11 @@
+Betreff: Bewerbung als {{bereinigter_jobtitel}}
+
+{{anrede}}
+
+anbei erhalten Sie meine Bewerbungsunterlagen für die Position als {{bereinigter_jobtitel}}.
+
+Für Rückfragen stehe ich Ihnen gerne zur Verfügung und freue mich auf Ihre Rückmeldung.
+
+Mit freundlichen Grüßen
+
+{{name}}
